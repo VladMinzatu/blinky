@@ -71,7 +71,7 @@ Build:
 cargo build --bin blinky --release
 ```
 
-And having connected the Pico2 to the Mac while keeping the `BOOTSEL` button pressed, run the following to flash and run:
+And having connected the Pico to the Mac while keeping the `BOOTSEL` button pressed, run the following to flash and run:
 ```
 cargo run --bin blinky --release
 ```
